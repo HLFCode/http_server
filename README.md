@@ -3,6 +3,8 @@ Simple Python http server for testing Esphome http_request component
 
 Will respond to POSTs with Transfer-Encoding: chunked or as plain text
 
+Edit content.txt to change the content sent back to the client
+
 Optional chunk size
 
 Best to run in a virtual environment
