@@ -24,3 +24,9 @@ Chunk size 10 bytes
 Access the server by default on port 8000. To change the port start the server using the -p <port> argument 
 
 E.g. http://127.0.0.1:8000
+
+For a sanity check of the server use curl to test it
+
+E.g.
+
+curl -v -i -k  --request POST --data "hello" http://127.0.0.1:8000
