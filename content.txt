@@ -1,0 +1,1 @@
+{"sensor":1234,"timestamp":"2024-11-28T18:40:56.274468","sensordatavalues":[{"sensordata":22926968619},{"sensordata":22926968619}]}
